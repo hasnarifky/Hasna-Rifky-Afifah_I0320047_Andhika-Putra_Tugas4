@@ -7,9 +7,9 @@ print("Masukkan data yang dibutuhkan")
 print("Peserta harus menjawab pertanyaan dengan jujur dan mempertanggungjawabkan apapun yang diisikan")
 
 print("Berapa usia peserta saat ini?")
-usia = input("Usia : ")
+usia = int(input("Usia : "))
 
-if usia >= "21" :
+if usia >= 21 :
     print("Apakah peserta sudah lulus ujian kualifikasi? (tulis Y/T)")
     kelulusan = input("Kelulusan ujian : ")
     if kelulusan == "Y" :
