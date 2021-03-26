@@ -6,20 +6,20 @@ z = 0
 
 # a. 4 | 11
 z = x | y
-print("a. Nilai yang memenuhi variabel c adalah ",z)
+print("a. Nilai yang memenuhi variabel z adalah ",z)
 
 # b. 4 >> 11
 z = x >> y
-print("b. Nilai yang memenuhi variabel c adalah ",z)
+print("b. Nilai yang memenuhi variabel z adalah ",z)
 
 #c. 4 ^ 11
 z = x ^ y
-print("c. Nilai yang memenuhi variabel c adalah ",z)
+print("c. Nilai yang memenuhi variabel z adalah ",z)
 
 #d. ~4
 z = ~x
-print("d. Nilai yang memenuhi variabel c adalah ",z)
+print("d. Nilai yang memenuhi variabel z adalah ",z)
 
 #e. 11 & 4
 z = y & x
-print("e. Nilai yang memenuhi variabel c adalah ",z)
+print("e. Nilai yang memenuhi variabel z adalah ",z)
